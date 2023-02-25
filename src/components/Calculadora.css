@@ -11,6 +11,11 @@ button:hover{
     cursor: pointer;
 }
 
+/* .maindiv{
+    height: 600px;
+
+} */
+
 .wrapper{
     background: #000000;
     border-radius: 10px;
