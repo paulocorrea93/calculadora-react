@@ -4,8 +4,38 @@ button{
     font-size: 1.5em;
     width: 3em;
     height: 3em;
+    margin: 0.3em;
 }
 
 button:hover{
     cursor: pointer;
+}
+
+.wrapper{
+    background: #000000;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.orange{
+    background: #FF9602;
+    color: #fff;
+}
+
+.gray{
+    background: #A4A4A4;
+}
+
+.dark-gray{
+    background: #343434;
+    color: #FFF;
+}
+
+.resultado{
+    color: #FFF;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 3.5em;
+    margin-right: 25px;
+    font-weight: 400;
 }
