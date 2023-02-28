@@ -1,3 +1,5 @@
+Visite o app (Deploy): 
+
 <h1>Calculadora com React</h1>
 Este projeto é uma calculadora desenvolvida usando React, uma biblioteca JavaScript de código aberto amplamente utilizada para criar interfaces de usuário.
 
